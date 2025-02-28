@@ -1,2 +1,2 @@
 # Word-Frequency
-This Python program takes a text input, breaks it into words, counts their occurrences, and presents the results in a Bag of Words format
+This program splits the text into words, counts the occurrences of each word, sorts the words alphabetically for better readability, and outputs both a sorted word list and their frequency.
