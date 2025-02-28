@@ -13,7 +13,7 @@ def text_word(text):
     
     return sorted_frequency
 
-text = "the bag is here here"
+text = input("Input your text: ")
 print("Word List:", sorted(text_word(text).keys()))
 print("\nBag of Words:")
 for word, count in text_word(text).items():
